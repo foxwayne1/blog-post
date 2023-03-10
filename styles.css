@@ -44,6 +44,9 @@ h6 {
   margin: 0 auto;
   padding: 32px;
 }
+.content h3 {
+  text-transform: capitalize;
+}
 .info {
   font-family: 'Bitter', serif;
   text-align: center;
@@ -72,4 +75,8 @@ h6 {
   display: block;
   font-weight: bold;
   margin-left: 20px;
+}
+code {
+  color: #e95400;
+  font-weight: bold;
 }
